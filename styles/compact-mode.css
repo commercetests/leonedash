@@ -1,0 +1,100 @@
+/* Compact Mode Styles */
+[data-compact="true"] .stat-card {
+  padding: 12px 16px;
+}
+
+[data-compact="true"] .stat-icon {
+  width: 36px;
+  height: 36px;
+}
+
+[data-compact="true"] .stat-value {
+  font-size: 20px;
+}
+
+[data-compact="true"] .stat-label {
+  font-size: 11px;
+}
+
+[data-compact="true"] .stat-change {
+  font-size: 11px;
+}
+
+/* Compact Charts */
+[data-compact="true"] .chart-card {
+  padding: 16px;
+}
+
+[data-compact="true"] .chart-card-title {
+  font-size: 14px;
+}
+
+/* Compact Module Cards */
+[data-compact="true"] .module-card {
+  padding: 16px;
+}
+
+[data-compact="true"] .kpi-card {
+  padding: 12px;
+}
+
+[data-compact="true"] .kpi-value {
+  font-size: 20px;
+}
+
+[data-compact="true"] .kpi-label {
+  font-size: 11px;
+}
+
+/* Compact Filter Bar */
+[data-compact="true"] .filter-bar {
+  padding: 12px 20px;
+}
+
+[data-compact="true"] .quick-presets {
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+}
+
+[data-compact="true"] .preset-chip {
+  padding: 4px 10px;
+  font-size: 12px;
+}
+
+[data-compact="true"] .filter-group {
+  gap: 6px;
+}
+
+/* Compact Tables */
+[data-compact="true"] table {
+  font-size: 13px;
+}
+
+[data-compact="true"] th,
+[data-compact="true"] td {
+  padding: 8px 12px;
+}
+
+/* Compact Spacing */
+[data-compact="true"] .dashboard {
+  padding: 16px;
+}
+
+[data-compact="true"] .section-main-title {
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+[data-compact="true"] .quick-stats {
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+[data-compact="true"] .dashboard-grid {
+  gap: 16px;
+}
+
+[data-compact="true"] .charts-grid {
+  gap: 16px;
+}
